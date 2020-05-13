@@ -1,3 +1,3 @@
 ## **Lazily Aggregated Quantized Gradient Innovation for Communication-Efficient Federated Learning**
-The paper is under review.
+Python code for the paper which is under review.
 
